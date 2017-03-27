@@ -1,0 +1,51 @@
+Main:
+-After every line there should be  a semi-colon';'
+-mark the end of the code with-'End'
+-to enter and define a variabe use 'Enter'
+-to add two variables or nos use 'Add'
+-to Print a string or a variable entered previously,use 'Print'
+-Repeat is a loop
+
+Base:
+-checks if the keywords entered are valid
+-it has the comman variables for the whole program
+
+Add:
+Syntax:
+Add 2+4+4+3... 
+or
+Add x+y+z+...
+-Adds     or
+-Adds  variables entered previously
+
+Enter:
+Syntax:
+Enter x,y,z;
+or Enter x;
+-Enter the value in the dialogue box 
+in the form: 2,3,4 for the first type
+or
+2 for the second type;
+
+
+Repeat:
+Syntax-
+Repeat n times;
+..
+..
+..
+Exit;
+-n is the no of times it has to be repeated
+-local variables can be used outside the loop also
+
+Save:
+-Select a destination folder and 
+and type the file name with extension .javaplus
+click open
+
+Import:
+-select a particular file to be imported and press open
+
+Variables:
+class with parameters name and value
+
